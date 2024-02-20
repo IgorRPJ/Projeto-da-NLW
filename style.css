@@ -12,14 +12,15 @@
     -webkit-text-size-adjunt: 100%;
   }
 
+
   body{
     background-color: #0F172A;
+    padding-bottom: 60px;
+    margin-left: 145px;
   }
 
   main {
     max-width: 640px;
-    margin: 0 auto 64;
-    padding: 20px;
   }
 
 header{
@@ -102,11 +103,13 @@ input:checked::before{
   border-radius: 50%;
 }
 
+/*questoes*/
 .quiz-item{
   margin-top: 24px;
   border: 1px solid #475569;
   border-radius: 8px;
   overflow: hidden;
+  margin-bottom: 24;
 }
 
 /*declaraçao*/
