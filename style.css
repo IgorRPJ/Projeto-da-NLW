@@ -21,6 +21,8 @@
 
   main {
     max-width: 640px;
+    margin: 0 auto 64px;
+    padding: 20px;
   }
 
 header{
